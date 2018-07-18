@@ -69,3 +69,4 @@ Pictured:
 [MIT](https://github.com/PanJiaChen/vueAdmin-template/blob/master/LICENSE) license.
 
 Copyright (c) 2017-present PanJiaChen
+# vueAdmin
